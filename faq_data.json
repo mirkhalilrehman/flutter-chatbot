@@ -1,0 +1,77 @@
+[
+  {
+    "category": "Help",
+    "question": "How can I reset my password?",
+    "answer": "To reset your password, go to the login page and click on 'Forgot Password?' Follow the prompts to receive a password reset link via email."
+  },
+  {
+    "category": "Help",
+    "question": "What should I do if I can't access my account?",
+    "answer": "If you're unable to access your account, check if you're using the correct email and password. If the problem persists, try resetting your password. If you still can't access it, contact customer support for assistance."
+  },
+  {
+    "category": "Help",
+    "question": "How do I update my personal information?",
+    "answer": "You can update your personal information by logging into your account, going to the 'Profile' or 'Settings' section, and making the necessary changes."
+  },
+  {
+    "category": "Help",
+    "question": "Where can I find transaction history?",
+    "answer": "Your transaction history can be found in the 'Transactions' or 'History' section of your account. Here, you can view details of all past transactions."
+  },
+  {
+    "category": "Help",
+    "question": "How do I report a fraudulent transaction?",
+    "answer": "If you suspect a fraudulent transaction, please contact our customer support immediately. Provide them with details of the transaction for investigation."
+  },
+  {
+    "category": "Customer Service",
+    "question": "What are the customer service hours?",
+    "answer": "Our customer service team is available 24/7 to assist you with any inquiries or issues you may have."
+  },
+  {
+    "category": "Customer Service",
+    "question": "How can I contact customer service?",
+    "answer": "You can contact customer service via email, phone, or live chat. Visit our 'Contact Us' page for detailed information on how to reach us."
+  },
+  {
+    "category": "Customer Service",
+    "question": "Is there a help center or knowledge base available?",
+    "answer": "Yes, we have a comprehensive help center and knowledge base accessible on our website, where you can find answers to common questions and guides."
+  },
+  {
+    "category": "Customer Service",
+    "question": "What should I do if my issue is not resolved?",
+    "answer": "If your issue remains unresolved, please escalate it by requesting to speak to a supervisor or manager through our customer service channels."
+  },
+  {
+    "category": "Customer Service",
+    "question": "Can I provide feedback about my experience?",
+    "answer": "Yes, we welcome your feedback! You can share your comments and suggestions through our feedback form available on our website."
+  },
+  {
+    "category": "Chat",
+    "question": "How do I start a chat with customer support?",
+    "answer": "To start a chat, click on the chat icon located at the bottom right corner of our website or app. A customer support representative will assist you."
+  },
+  {
+    "category": "Chat",
+    "question": "Is chat support available 24/7?",
+    "answer": "Yes, our chat support is available 24/7 to help you with any inquiries or issues."
+  },
+  {
+    "category": "Chat",
+    "question": "Can I chat with a representative in a different language?",
+    "answer": "Chat support is available in multiple languages. You can select your preferred language option when starting the chat."
+  },
+  {
+    "category": "Chat",
+    "question": "What types of questions can I ask in the chat?",
+    "answer": "You can ask any questions related to your account, transactions, technical issues, or general inquiries about our services."
+  },
+  {
+    "category": "Chat",
+    "question": "What if the chat representative is unable to resolve my issue?",
+    "answer": "If your issue cannot be resolved in the chat, the representative may escalate it to a higher level of support or provide you with alternative contact methods for further assistance."
+  }
+]
